@@ -1,1 +1,4 @@
 this is a test of creating a file
+
+I want to create a series of 12 YouTube videos to help small and medium-sized business owners.  Many of these businesses are too small to hire a dedicated FP&A team. I want to put together a series to instruct them on how to do many of the things that an FP&A professional would do in their business, if they had one.  A moderate level of financial and business savvy should be assumed, but technical finance jargon should be explained in the context of usage.  
+
